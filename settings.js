@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @SHAN
+› Base Ori @DIKAA
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
 */
@@ -35,7 +35,7 @@ global.footer = 'SHAN' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UC1BSPTLZK_bSY19jHzwK7oA'
 global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
+global.mygc = 'https://chat.whatsapp.com/JK3NzAtmHxaDzStKgBMuGH'
 global.myweb = 'https://s.id/chikabot'
 global.email = 'htbanhh@gmail.com '
 global.region = 'indonesia'
